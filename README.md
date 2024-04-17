@@ -8,4 +8,5 @@ Olá **EBAC**. Este é meu teste de `GitHub`.
 
 [Repositório1.0](https://github.com/IvesMart/PAPER_2D/blob/master/README.md) 
 
-![Abraço](https://www.shutterstock.com/image-vector/hands-hugged-over-white-vector-illustration-1932997619). 
+![Abraço](https://github.com/IvesMart/PAPER_2D/assets/166958366/02e299d0-6e3a-463a-9fcb-a2a5e4bce057)
+
